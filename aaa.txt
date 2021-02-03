@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 aaaaaaasdasd123123
+=======
+aaaaaa
+增加内容master
+>>>>>>> master
